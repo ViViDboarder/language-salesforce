@@ -1,9 +1,9 @@
 'fileTypes': [
-  'java'
-  'bsh'
+  'cls'
+  'trigger'
 ]
 'keyEquivalent': '^~J'
-'name': 'Java'
+'name': 'Salesforce Apex'
 'patterns': [
   {
     'captures':

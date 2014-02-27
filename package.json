@@ -1,18 +1,18 @@
 {
-  "name": "language-java",
-  "version": "0.8.0",
-  "description": "Java language support in Atom",
+  "name": "language-salesforce,
+  "version": "0.0.1",
+  "description": "Salesforce language support in Atom",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-java",
+  "homepage": "https://github.com/ViViDboarder/language-salesforce",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-java.git"
+    "url": "https://github.com/ViViDboarder/language-salesforce.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-java/issues"
+    "url": "https://github.com/ViViDboarder/language-salesforce/issues"
   }
 }
